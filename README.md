@@ -1,5 +1,7 @@
 # Lead.Hook
 
+> **Notice:** Lead.Hook has now been merged into **NacreCraft.Hook** and is part of the **NacreCraft** repository. That repository has been archived and will no longer be updated.
+
 A hook engine for .NET 10 with three patching modes — load-time IL rewriting, runtime native patching, and runtime method-body injection through the CLR ReJIT API. No Harmony, no detours library.
 
 ```powershell
